@@ -1,0 +1,96 @@
+#img1{
+    width:200;
+    height: 100px;
+}
+#body{ 
+    background-color: #B39a7c;
+}
+ 
+#img2{
+    width:100%;
+    height: 500px;
+}
+#img3{
+    float: right; 
+    width: 7%;
+    margin-top: -10px; 
+}
+
+#nav {
+ text-align: center;
+ 
+}
+
+#nav a {
+    display: inline-block; 
+    padding: 10px 20px;
+    border: 2px solid white; /* Ajoute une bordure noire autour du lien */
+    text-decoration: none; /* Enlève le soulignement par défaut des liens */
+    border-radius: 10px; /* Ajoute des coins arrondis */
+    background-color: #B39a7c; /* Couleur de fond pour le cadre */
+    color: #000; /* Couleur du texte */
+    text-align: center; /* Centre le texte à l'intérieur du cadre */
+margin-bottom: 5px;
+
+}
+
+#nav a:hover {
+    background-color: #d1b994; /* Change la couleur de fond au survol */
+    border-color:white; /* Change la couleur de la bordure au survol */
+}
+
+h3{
+    color:red;
+    text-decoration: underline dotted;
+}
+
+article h3 {
+    margin: 0; /* Supprime l'espace h3 */
+}
+
+article p {
+    margin-top: 0; /* Supprime l'espace  du p */
+   
+}
+article{
+    margin-left: 100px;
+    margin-right: 100px;
+    
+}
+div{
+    background-color:
+    #d1b994;
+}
+hr {  margin-left: 100px;
+    margin-right: 100px;
+   
+}
+#alinea{
+    text-indent: 30px;
+}
+#lien{
+    color: blue;
+}
+#galerie{  border: 10px solid white; /* Bordure blanche */
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5); /* Ombre portée */
+width: 20%;
+}
+#moy{text-align: center;}
+#img article{
+
+ margin-right: 100px;
+}
+.footer
+{ background-color: #B39a7c;}
+th{ background-color: #B39a7c;}
+form{
+    padding-left: 560px;
+    padding-right: 2500px;
+}
+.inp{border: 2px solid #ccc; /* Bordure légère */
+    border-radius: 25px;    /* Arrondi de la bordure */
+    outline: none; 
+    font-size: 28px;
+     
+  }
+  
